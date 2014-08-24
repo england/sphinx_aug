@@ -21,3 +21,4 @@ gem 'spring',        group: :development
 
 gem 'mysql2'
 gem 'thinking-sphinx'
+gem 'pry-rails', group: :development
