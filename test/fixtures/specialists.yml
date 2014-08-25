@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  information: MyText
+  birth_date: 2014-08-24
+  clients_rating: 1
+  website_rating: 1
+  price_video: 9.99
+  price_text: 9.99
+  clinic_id: 1
+
+two:
+  name: MyString
+  information: MyText
+  birth_date: 2014-08-24
+  clients_rating: 1
+  website_rating: 1
+  price_video: 9.99
+  price_text: 9.99
+  clinic_id: 1
